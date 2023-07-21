@@ -3,9 +3,9 @@ Maven is a full stack chat app which uses Socket.io for real time communication 
 
 ## Tech Stack
 
-**Client:** React JS
+**Client:** React
 
-**Server:** Node JS, Express JS, Socket.io
+**Server:** Node.js, Express.js, Socket.io
 
 **Database:** MongoDB
 
