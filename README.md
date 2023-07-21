@@ -17,7 +17,7 @@ Maven is a full stack chat app which uses Socket.io for real time communication 
 - **Group Creation:** Users have the ability to create new groups.
 - **Group Chat:** Users can chat with other members of the same group in real-time.
 
-## Images:
+## Screenshots:
 
 <img width="959" alt="1" src="https://github.com/shreyamoily/MERN-chat-app/assets/74111792/5e537c92-a084-41a7-a4bc-7e06d5b75996">
 
